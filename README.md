@@ -1,9 +1,5 @@
-# Assignment Description
+# Robinson Crusoe Day Game IR '23
 
-written by 
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* A Chhose Your Own Adventure Game
